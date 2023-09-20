@@ -13,6 +13,6 @@ Another way of simulating DAQC circuits is to generate a DAQC schedule from a di
 QASM parser generates a digital circuit description that can be simulated with D_simulator.m.
 Conversions between different types of descriptions can be made using the xxx2yyy.m functions.
 
-For any question, constact mikelgda@gmail.com
+For any question, contact mikelgda@gmail.com
 
 Licensed under CC BY 4.0
