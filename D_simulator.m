@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % By: Mikel Garcia de Andoin, mikelgda@gmail.com
-% Licensed under Licensed under CC BY 4.0
+% Licensed under CC BY 4.0
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [rho,rhomeas,Uideal] = D_simulator(gate_type,angles,CNOT_ctrl,CNOT_targ,measqubits,rxgatetime,rzgatetime,CNOTgatetime,CNOTerror,rD,pbf,pmeas,pth,T1,T2,rho)
