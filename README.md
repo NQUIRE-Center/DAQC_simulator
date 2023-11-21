@@ -15,7 +15,5 @@ Conversions between different types of descriptions can be made using the xxx2yy
 
 For any question, contact mikelgda@gmail.com
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% By: Mikel Garcia de Andoin, mikelgda@gmail.com
-% Licensed under CC BY 4.0
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+By: Mikel Garcia de Andoin, mikelgda@gmail.com
+Licensed under CC BY 4.0
