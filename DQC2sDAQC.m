@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % By: Mikel Garcia de Andoin, mikelgda@gmail.com
-% Licensed under Licensed under CC BY 4.0
+% Licensed under CC BY 4.0
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 function [gate_type,time,angles] = DQC2sDAQC(gate_type,angles,CNOT_ctrl,CNOT_targ,Hs,minstep,rxgatetime,rzgatetime,timeCutThres)
