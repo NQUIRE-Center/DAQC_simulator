@@ -1,3 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% By: Mikel Garcia de Andoin, mikelgda@gmail.com
+% Licensed under Licensed under CC BY 4.0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function [gate_type,time,angles] = DQC2sDAQC(gate_type,angles,CNOT_ctrl,CNOT_targ,Hs,minstep,rxgatetime,rzgatetime,timeCutThres)
 %D2DA Function to conver a digital circuit to a stepwise digital-analog schedule
 %(For the moment) It accepts just rx, rz and CNOT gates
