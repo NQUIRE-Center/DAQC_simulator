@@ -1,3 +1,8 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% By: Mikel Garcia de Andoin, mikelgda@gmail.com
+% Licensed under CC BY 4.0
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function [gate_type,time,angles] = sDAQC2bDAQC(gate_type,time,angles,rxgatetime,rzgatetime)
 %SDAQC2BDAQC converts a stepwise schedule to a banged schedule
 % We ask for the rxgatetime and rzgatetime for simplicity of the code
